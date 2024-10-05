@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Opdracht 8</h1>
+    <p>Is een spatie net voor het woord "te" eigenlijk nodig? Probeer eens uit.</p>
+    <p> Ja want dan staat "te" aan de link geplakt en dat willen we niet. voorbeeld:</p>
+    <span>hier komt een </span><a href="">link</a><span>te staan</span>
+    <br><br><p> Waarom is dit niet correct (zie hieronder) en hoe moet het dan wel?</p>
+    <p>&lt;span&gt;hier komt &lt;strong&gt;een&lt;/span&gt;&lt;a href=""&gt;link&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; te staan&lt;/span&gt;</p>
+    <p>De &lt;strong&gt; tag wordt geopend binnen de &lt;span&gt; maar wordt gesloten na de &lt;a&gt; tag. De code is dus niet correct, de tags overlappen</p>
+    <br><p> Hoe moet het dan wel zijn?</p>
+    <p> het moet zo eruit zien:</p>
+    <p> &lt;span&gt; hier komt &lt;strong&gt; een &lt;/strong&gt; &lt;/span&gt; &lt;a href=""&gt;link&lt;/a&gt;&lt;span&gt; te staan&lt;/span&gt;</p>
+
+</body>
+</html>

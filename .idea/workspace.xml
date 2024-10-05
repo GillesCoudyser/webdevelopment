@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="445f1e3e-5377-4e69-8904-0e0ac3325a4e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ms6GlzRxGSOnHf9Z4oe7nQMNaS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,8 +31,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht_10.html.executor": "Run",
+    "JavaScript Debug.opdracht_12.html.executor": "Run",
+    "JavaScript Debug.opdracht_13.html.executor": "Run",
+    "JavaScript Debug.opdracht_4.html.executor": "Run",
+    "JavaScript Debug.opdracht_5.html.executor": "Run",
+    "JavaScript Debug.opdracht_6.html.executor": "Run",
+    "JavaScript Debug.opdracht_7.html.executor": "Run",
+    "JavaScript Debug.opdracht_8.html.executor": "Run",
+    "JavaScript Debug.opdracht_9.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -50,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1727852844250</updated>
       <workItem from="1727852845309" duration="250000" />
+      <workItem from="1727853109786" duration="2578000" />
+      <workItem from="1728165612490" duration="3592000" />
     </task>
     <servers />
   </component>
