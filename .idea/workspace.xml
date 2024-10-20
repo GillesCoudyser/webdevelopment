@@ -33,7 +33,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Opdracht_1.html.executor": "Run",
     "JavaScript Debug.Opdracht_2.html.executor": "Run",
+    "JavaScript Debug.hobbys.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.likes.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
     "JavaScript Debug.opdracht_12.html.executor": "Run",
     "JavaScript Debug.opdracht_13.html.executor": "Run",
@@ -77,6 +79,7 @@
       <workItem from="1729063712888" duration="2449000" />
       <workItem from="1729075780309" duration="85000" />
       <workItem from="1729410509285" duration="2527000" />
+      <workItem from="1729413230252" duration="1023000" />
     </task>
     <servers />
   </component>
