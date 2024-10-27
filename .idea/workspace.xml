@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,33 +29,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Opdracht_1.html.executor": "Run",
-    "JavaScript Debug.Opdracht_2.html.executor": "Run",
-    "JavaScript Debug.hobbys.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.likes.html.executor": "Run",
-    "JavaScript Debug.opdracht_10.html.executor": "Run",
-    "JavaScript Debug.opdracht_12.html.executor": "Run",
-    "JavaScript Debug.opdracht_13.html.executor": "Run",
-    "JavaScript Debug.opdracht_4.html.executor": "Run",
-    "JavaScript Debug.opdracht_5.html.executor": "Run",
-    "JavaScript Debug.opdracht_6.html.executor": "Run",
-    "JavaScript Debug.opdracht_7.html.executor": "Run",
-    "JavaScript Debug.opdracht_8.html.executor": "Run",
-    "JavaScript Debug.opdracht_9.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.hobbys.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.likes.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_13.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_7.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +83,9 @@
       <workItem from="1729075780309" duration="85000" />
       <workItem from="1729410509285" duration="2527000" />
       <workItem from="1729413230252" duration="1023000" />
+      <workItem from="1729670187703" duration="2253000" />
+      <workItem from="1730013645443" duration="1497000" />
+      <workItem from="1730016577064" duration="745000" />
     </task>
     <servers />
   </component>
