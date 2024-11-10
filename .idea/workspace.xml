@@ -34,6 +34,8 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_5.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.hobbys.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
@@ -47,6 +49,7 @@
     &quot;JavaScript Debug.opdracht_7.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
@@ -58,6 +61,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gille\Github\webdevelopment\labo_6\Opdracht_3\Styles" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,6 +95,9 @@
       <workItem from="1730013645443" duration="1497000" />
       <workItem from="1730016577064" duration="745000" />
       <workItem from="1730017489148" duration="42000" />
+      <workItem from="1730880869243" duration="4405000" />
+      <workItem from="1731222970311" duration="2671000" />
+      <workItem from="1731226791468" duration="12000" />
     </task>
     <servers />
   </component>
