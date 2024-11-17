@@ -1,0 +1,103 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #4a90e2;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+td {
+    font-size: 20px;
+    color: #555;
+}
+
+thead th {
+    border: none;
+}
+
+
+tbody tr:hover {
+    background-color: #f0f8ff;
+}
+
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+td img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
+
+
+table thead th[colspan="2"] {
+    background-color: #007acc;
+}
+
+table thead th[colspan="3"] {
+    background-color: #4a90e2;
+}
+
+
+table:last-of-type {
+    background-color: #e8f6ff;
+}
+
+table:last-of-type th {
+    background-color: #007acc;
+}
+

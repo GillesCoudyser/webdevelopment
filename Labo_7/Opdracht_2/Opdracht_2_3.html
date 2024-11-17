@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Vrienden</title>
+  <link rel="stylesheet" href="styles/Stylesheet.css">
+</head>
+<body>
+
+<h1>Gilles Coudyser</h1>
+
+<section>
+  <h2>Vrienden</h2>
+  <table class="vrienden-tabel">
+    <thead>
+    <tr>
+      <th>Voornaam</th>
+      <th>Familienaam</th>
+      <th>Leeftijd</th>
+      <th>Postcode</th>
+      <th>Telefoonnummer</th>
+      <th>Emailadres</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Emma</td>
+      <td>Janssen</td>
+      <td>27</td>
+      <td class="onbekend">Onbekend</td>
+      <td>0412 34 56 78</td>
+      <td>emma.janssen@example.com</td>
+    </tr>
+    <tr class="alt">
+      <td>Liam</td>
+      <td>Vermeulen</td>
+      <td class="onbekend">Onbekend</td>
+      <td>2000</td>
+      <td>0468 23 45 67</td>
+      <td>liam.vermeulen@example.com</td>
+    </tr>
+    <tr>
+      <td>Sofie</td>
+      <td>Peeters</td>
+      <td>25</td>
+      <td>3000</td>
+      <td class="onbekend">Onbekend</td>
+      <td>sofie.peeters@example.com</td>
+    </tr>
+    <tr class="alt">
+      <td>Lucas</td>
+      <td>Vandenberghe</td>
+      <td>31</td>
+      <td>4000</td>
+      <td>0477 89 01 23</td>
+      <td class="onbekend">Onbekend</td>
+    </tr>
+    <tr>
+      <td>Nina</td>
+      <td>Martens</td>
+      <td class="onbekend">Onbekend</td>
+      <td>5000</td>
+      <td>0456 78 90 12</td>
+      <td>nina.martens@example.com</td>
+    </tr>
+    </tbody>
+  </table>
+</section>
+<h3>Waarom heeft de volgende CSS regel: .onbekend {background-color:red;} geen effect als je deze toepast op een  cel in een rij met class="alt", maar wel in een 
+    rij zonder deze 'alt' class? Hint: het heeft te maken met de specificiteit van de regels.</h3>
+<p>Dit komt omdat de .alt td-selector specifieker is dan .onbekend, omdat .alt td een directere selectie vormt van td-elementen binnen .alt-rijen. Door .vrienden-tabel .onbekend toe te voegen, wordt de specificiteit verhoogd en werkt de regel in beide rijen.</p>
+</body>
+</html>
