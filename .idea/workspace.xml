@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,16 +33,20 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_1_2_3_4_5.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_2_3.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_4.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_5.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_lorem_ipsum.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Opdracht_lorem_ipsum_extra.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.hobbys.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.kalender.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.likes.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_13.html.executor&quot;: &quot;Run&quot;,
@@ -53,6 +57,8 @@
     &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voorbeeld1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voorbeeld2.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
@@ -108,6 +114,10 @@
       <workItem from="1731838182182" duration="128000" />
       <workItem from="1731838566010" duration="34000" />
       <workItem from="1731838714324" duration="252000" />
+      <workItem from="1732090806628" duration="1928000" />
+      <workItem from="1732659129734" duration="3532000" />
+      <workItem from="1732663868638" duration="2391000" />
+      <workItem from="1732666536649" duration="189000" />
     </task>
     <servers />
   </component>
