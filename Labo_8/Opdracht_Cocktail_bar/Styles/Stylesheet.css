@@ -28,19 +28,18 @@ header
     text-align: center;
 }
 
-h1, h2
-{
-    color: #007e7e;
-}
+
 
 h1
 {
     font-size: 150%;
+    color: #007e7e;
 }
 
 h2
 {
     font-size: 130%;
+    color: #007e7e;
 }
 
 #side h1

@@ -1,0 +1,150 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95%;
+    margin: auto;
+}
+
+
+header
+{
+    background: url('../images/bgsky3.jpg') no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 200px;
+    text-align: center;
+    color: darkblue;
+    margin: 0 auto;
+}
+
+header img
+{
+    width: 150px;
+    right: 250px;
+    bottom: 60px;
+    position: absolute;
+    z-index: 10;
+    box-sizing: border-box;
+}
+
+#header-top-titel
+{
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#header-bottom-titel
+{
+    font-size: 240%;
+    font-weight: bold;
+}
+
+aside
+{
+    float: right;
+    width: 25%;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    color: #666666;
+    font-size: 90%;
+    padding: 0 10px;
+}
+
+aside h3
+{
+    color: white;
+    background-color: #000080;
+    text-align: center;
+    font-size: 120%;
+}
+
+main
+{
+    width: 75%;
+    margin-right: 10px;
+}
+
+#introduction
+{
+    background-color: white;
+    text-align: justify;
+    padding: 20px;
+    color: black;
+}
+
+#introduction p
+{
+    margin: 20px 30px 20px 0;
+}
+
+#introduction span
+{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+figure
+{
+    display: block;
+    margin: 20px auto;
+    padding: 0 20px;
+    max-width: 100%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+}
+
+#gallery
+{
+    background-color: #999999;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+
+.foto img
+{
+    height: 180px;
+    width: 180px;
+}
+
+.foto
+{
+    width: calc(33.33% - 20px);
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px dotted #999999;
+    background-color: white;
+}
+
+footer
+{
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 10px 0;
+    clear: both;
+}
+
+#bottom
+{
+    background-color: #666666;
+    line-height: 2em;
+    color: white;
+    gap: 120px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    clear: both;
+}
+
+#bottom a:hover
+{
+    color: red;
+}
