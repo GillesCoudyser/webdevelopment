@@ -1,0 +1,25 @@
+.row>div {
+    background-color: #abb1b8;
+    min-height: 150px;
+    background-clip: content-box;
+}
+
+.row>div:nth-child(odd) {
+    background-color: #dbdfe5;
+}
+
+.row .col{
+    background-color: lightgray;
+}
+
+.row .col-7{
+    background-color: grey;
+    color: white;
+}
+
+.row .col-8{
+    background-color: grey;
+    color: white;
+}
+
+

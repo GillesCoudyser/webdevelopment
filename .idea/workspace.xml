@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,49 +29,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1_2_3_4_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_2_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_lorem_ipsum.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_lorem_ipsum_extra.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.airbus.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hobbys.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.kalender.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.likes.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_13.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld2.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Opdracht_1.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_2_3_4_5.html.executor": "Run",
+    "JavaScript Debug.Opdracht_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_2_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_4.html.executor": "Run",
+    "JavaScript Debug.Opdracht_5.html.executor": "Run",
+    "JavaScript Debug.Opdracht_6.html.executor": "Run",
+    "JavaScript Debug.Opdracht_lorem_ipsum.html.executor": "Run",
+    "JavaScript Debug.Opdracht_lorem_ipsum_extra.html.executor": "Run",
+    "JavaScript Debug.airbus.html.executor": "Run",
+    "JavaScript Debug.hobbys.html.executor": "Run",
+    "JavaScript Debug.homepage.html.executor": "Run",
+    "JavaScript Debug.index.htm.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.kalender.html.executor": "Run",
+    "JavaScript Debug.likes.html.executor": "Run",
+    "JavaScript Debug.loungestart.html.executor": "Run",
+    "JavaScript Debug.oef1.html.executor": "Run",
+    "JavaScript Debug.opdracht_10.html.executor": "Run",
+    "JavaScript Debug.opdracht_12.html.executor": "Run",
+    "JavaScript Debug.opdracht_13.html.executor": "Run",
+    "JavaScript Debug.opdracht_4.html.executor": "Run",
+    "JavaScript Debug.opdracht_5.html.executor": "Run",
+    "JavaScript Debug.opdracht_6.html.executor": "Run",
+    "JavaScript Debug.opdracht_7.html.executor": "Run",
+    "JavaScript Debug.opdracht_8.html.executor": "Run",
+    "JavaScript Debug.opdracht_9.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
+    "JavaScript Debug.voorbeeld1.html.executor": "Run",
+    "JavaScript Debug.voorbeeld2.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/gille/Github/webdevelopment/Labo_10/Opdracht_Mondriaan/Styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gille\Github\webdevelopment\Labo_10\Opdracht_Mondriaan\Styles" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gille\Github\webdevelopment\Labo_7\Opdracht_NatureBlog" />
       <recent name="C:\Users\gille\Github\webdevelopment\labo_6\Opdracht_3\Styles" />
@@ -123,6 +129,9 @@
       <workItem from="1733043555421" duration="2790000" />
       <workItem from="1733046685258" duration="141000" />
       <workItem from="1733046874458" duration="9000" />
+      <workItem from="1733048430493" duration="68000" />
+      <workItem from="1733300781002" duration="1797000" />
+      <workItem from="1733646256176" duration="5129000" />
     </task>
     <servers />
   </component>
