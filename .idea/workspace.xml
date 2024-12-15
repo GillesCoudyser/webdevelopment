@@ -42,6 +42,12 @@
     "JavaScript Debug.Opdracht_lorem_ipsum.html.executor": "Run",
     "JavaScript Debug.Opdracht_lorem_ipsum_extra.html.executor": "Run",
     "JavaScript Debug.airbus.html.executor": "Run",
+    "JavaScript Debug.exercise1.html.executor": "Run",
+    "JavaScript Debug.exercise2.html.executor": "Run",
+    "JavaScript Debug.exercise3.html.executor": "Run",
+    "JavaScript Debug.exercise4.html.executor": "Run",
+    "JavaScript Debug.exercise5.html.executor": "Run",
+    "JavaScript Debug.exercise6.html.executor": "Run",
     "JavaScript Debug.hobbys.html.executor": "Run",
     "JavaScript Debug.homepage.html.executor": "Run",
     "JavaScript Debug.index.htm.executor": "Run",
@@ -132,6 +138,8 @@
       <workItem from="1733048430493" duration="68000" />
       <workItem from="1733300781002" duration="1797000" />
       <workItem from="1733646256176" duration="5129000" />
+      <workItem from="1733908219222" duration="1180000" />
+      <workItem from="1734218759246" duration="3616000" />
     </task>
     <servers />
   </component>
