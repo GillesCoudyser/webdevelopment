@@ -21,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/index.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -140,6 +143,8 @@
       <workItem from="1733646256176" duration="5129000" />
       <workItem from="1733908219222" duration="1180000" />
       <workItem from="1734218759246" duration="3616000" />
+      <workItem from="1734513964732" duration="617000" />
+      <workItem from="1734862314102" duration="1308000" />
     </task>
     <servers />
   </component>
