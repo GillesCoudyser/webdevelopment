@@ -5,28 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445f1e3e-5377-4e69-8904-0e0ac3325a4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_3/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_3/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_4/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_4/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_5/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_5/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_6_en_kopieer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_6_en_kopieer/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_6_en_kopieer/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_Arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_Arrays/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_Arrays/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_substrings/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_substrings/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_2/Opdracht_substrings/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -118,6 +119,7 @@
       <recent name="C:\Users\gille\Github\webdevelopment\Labo_10\Opdracht_Mondriaan\Styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gille\Github\webdevelopment\semester2" />
       <recent name="C:\Users\gille\Github\webdevelopment\semester2\Labo_2" />
       <recent name="C:\Users\gille\Github\webdevelopment\Semester1" />
       <recent name="C:\Users\gille\Github\webdevelopment\Labo_7\Opdracht_NatureBlog" />
@@ -190,6 +192,8 @@
       <workItem from="1739275551968" duration="1913000" />
       <workItem from="1739282342520" duration="6767000" />
       <workItem from="1739576434105" duration="3302000" />
+      <workItem from="1739885961321" duration="1634000" />
+      <workItem from="1740805247528" duration="8452000" />
     </task>
     <servers />
   </component>
