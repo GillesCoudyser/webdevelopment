@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445f1e3e-5377-4e69-8904-0e0ac3325a4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formvalidatie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formwaarden/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/de_en_het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/de_en_het/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +172,7 @@
       <workItem from="1740805247528" duration="8452000" />
       <workItem from="1741703546983" duration="1751000" />
       <workItem from="1742026900948" duration="5079000" />
+      <workItem from="1742032163802" duration="118000" />
     </task>
     <servers />
   </component>
