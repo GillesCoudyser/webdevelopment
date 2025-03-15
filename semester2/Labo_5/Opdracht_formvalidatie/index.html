@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Title</title>
+</head>
+<body>
+<form id="myForm">
+    <div>
+        <label for="voornaam">Voornaam:</label>
+        <input type="text" id="voornaam" name="voornaam" placeholder="John">
+        <span class="errorMessage" id="voornaamError"></span>
+    </div>
+    <div>
+        <label for="familienaam">Familienaam:</label>
+        <input type="text" id="familienaam" name="familienaam" placeholder="Doe">
+        <span class="errorMessage" id="familienaamError"></span>
+    </div>
+    <div>
+        <label for="geboortedatum">Geboortedatum:</label>
+        <input type="text" id="geboortedatum" name="geboortedatum" placeholder="jjjj-mm-dd">
+        <span class="errorMessage" id="geboortedatumError"></span>
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="text" id="email" name="email" placeholder="example@gmail.com">
+        <span class="errorMessage" id="emailError"></span>
+    </div>
+    <div>
+        <label for="aantalKinderen">Aantal kinderen:</label>
+        <input type="text" id="aantalKinderen" name="aantalKinderen">
+        <span class="errorMessage" id="aantalKinderenError"></span>
+    </div>
+    <button type="submit">Valideer</button>
+</form>
+
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>

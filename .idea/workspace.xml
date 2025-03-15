@@ -5,31 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445f1e3e-5377-4e69-8904-0e0ac3325a4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_Producten/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_kleurenwisselaar/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_3/Opdracht_paragrafen/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_An/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_InvulFormulier/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_Spatie_op_Console/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_4/Opdracht_spaties_met_functie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_formwaarden/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_gemeenten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/Opdracht_trigrams/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/de_en_het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_5/de_en_het/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,6 +180,8 @@
       <workItem from="1739576434105" duration="3302000" />
       <workItem from="1739885961321" duration="1634000" />
       <workItem from="1740805247528" duration="8452000" />
+      <workItem from="1741703546983" duration="1751000" />
+      <workItem from="1742026900948" duration="5079000" />
     </task>
     <servers />
   </component>
