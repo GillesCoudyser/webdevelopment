@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <title>My Internet Start Page</title>
+</head>
+<body>
+<div>
+    <h1 class="mb-4">My Internet Start Page</h1>
+
+    <form>
+        <div class="mb-3">
+            <label for="searchInput" class="form-label">Zoekopdracht</label>
+            <input type="text" class="form-control" id="searchInput" placeholder="Enter Commando">
+            <sup>Start your commando with "/[character] [zoekopdracht]"</sup>
+        </div>
+        <div class="mb-4">
+            <button type="button" id="searchButton" class="btn btn-success w-100">GO!</button>
+        </div>
+    </form>
+
+    <div class="row" id="historyRow"></div>
+</div>
+<script src="scripts/code.js"></script>
+</body>
+</html>

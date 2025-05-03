@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445f1e3e-5377-4e69-8904-0e0ac3325a4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_2/Programma_1/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_2/Programma_1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_2/Programma_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_8/Opdracht_2/Programma_2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_9/Extra_tafels/tafels_oplossing_start/tafels/tafels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/Labo_9/Opdracht_antwoorden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_10/Opdracht_My_Internet_Start_Page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_10/Opdracht_My_Internet_Start_Page/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/Labo_10/Opdracht_My_Internet_Start_Page/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semester2/Labo_7/Opdracht_MatchingGame/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/semester2/Labo_7/Opdracht_MatchingGame/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/semester2/Labo_10/Opdracht_My_Internet_Start_Page/scripts/code.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -107,8 +103,8 @@
       <recent name="C:\Users\gille\Github\webdevelopment\Labo_10\Opdracht_Mondriaan\Styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gille\Github\webdevelopment\semester2\Labo_8\Opdracht_2\Programma_1" />
       <recent name="C:\Users\gille\Github\webdevelopment\semester2" />
+      <recent name="C:\Users\gille\Github\webdevelopment\semester2\Labo_8\Opdracht_2\Programma_1" />
       <recent name="C:\Users\gille\Github\webdevelopment\semester2\Labo_2" />
       <recent name="C:\Users\gille\Github\webdevelopment\Semester1" />
       <recent name="C:\Users\gille\Github\webdevelopment\Labo_7\Opdracht_NatureBlog" />
@@ -194,7 +190,9 @@
       <workItem from="1743239621608" duration="1290000" />
       <workItem from="1743511520771" duration="7214000" />
       <workItem from="1745325993563" duration="5607000" />
-      <workItem from="1745653542731" duration="4672000" />
+      <workItem from="1745653542731" duration="5005000" />
+      <workItem from="1745928475886" duration="9900000" />
+      <workItem from="1746261217861" duration="226000" />
     </task>
     <servers />
   </component>
